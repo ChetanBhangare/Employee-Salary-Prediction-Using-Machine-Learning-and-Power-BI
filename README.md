@@ -97,6 +97,3 @@ The dataset includes the following columns:
 └── requirements.txt              
 
 
-## Author
-Chetan Bhangare
-For any queries, feel free to reach out via .
